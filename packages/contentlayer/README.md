@@ -64,7 +64,6 @@ Join [our Discord community](https://discord.gg/fk83HNECYJ) to get help, suggest
 - [sergiobarria.com](https://sergiobarria.com/) ([Source](https://github.com/sergiobarria/sergiobarria.com))
 - [adeecc.vercel.app](https://adeecc.vercel.app/) ([Source](https://github.com/adeecc/blogfolio))
 - [alpesdream.vercel.app](https://alpesdream.vercel.app/) ([Source](https://github.com/patrick-xin/alpesdream))
-- [bayukurnia.com](https://bayukurnia.com) ([Source](https://github.com/bwyx/bayukurnia.com))
 - [makersleague.de](https://makersleague.de) ([Source](https://github.com/timoclsn/makersleague.de))
 - [euisblue.me](https://www.euisblue.me/) ([Source](https://github.com/euisblue/bluelog))
 - [thismodernweb.com](https://thismodernweb.com) ([Source](https://github.com/pmarsceill/this-modern-web))
